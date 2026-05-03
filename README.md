@@ -1,16 +1,15 @@
-## Hi there 👋
+# MDEBRUNO
 
-<!--
-**mdebruno/mdebruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MDEBRUNO é o canal oficial do criador de conteúdo mdebruno, focado em jogos de PC, hardware, testes, análises, lives e opinião crítica sobre o mercado de games.
 
-Here are some ideas to get you started:
+## Links oficiais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- YouTube: https://www.youtube.com/@mdebruno
+- X/Twitter: https://x.com/mdebrunoyt
+- Steam: https://steamcommunity.com/id/mdebruno/
+- Reddit: https://www.reddit.com/user/mdebruno/
+- Blog oficial: https://mdebruno.blogspot.com/
+
+## Sobre
+
+O foco do MDEBRUNO é PC gaming de verdade: gameplay, lives, testes de desempenho, hardware, tecnologia, mods e comentários sem passar pano para empresa nenhuma.
